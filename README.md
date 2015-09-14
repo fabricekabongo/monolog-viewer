@@ -94,3 +94,7 @@ To change your password, simply delete the `/app/config/secure/passwd` file and 
 
 # Mobile devices
 The App is fully optimized for tablets and smart phones and can even be installed to the home screen on iOS devices. It then works like a native app and features an app icon as well as a beautiful splash screen.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/fabricekabongo/monolog-viewer/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
